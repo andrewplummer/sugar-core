@@ -1,0 +1,32 @@
+{
+  "name": "sugar-core",
+  "description": "Core module for the Sugar Javascript utility library.",
+  "homepage": "https://sugarjs.com/",
+  "license": "MIT",
+  "authors": [
+    "Andrew Plummer <plummer.andrew@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrewplummer/Sugar.git"
+  },
+  "keywords": [
+    "sugar",
+    "sugarjs",
+    "functional",
+    "browser",
+    "utility",
+    "util"
+  ],
+  "main": "sugar-core.js",
+  "ignore": [
+    "**/*",
+    "!README.md",
+    "!LICENSE",
+    "!*.map",
+    "!*.js"
+  ],
+  "moduleType": [
+    "globals"
+  ]
+}
